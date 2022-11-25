@@ -8,8 +8,8 @@
     --rcx-color-neutral-700: #eeeff1;
     --rcx-color-neutral-800: #f2f3f5;
     --rcx-color-neutral-900: #f7f8fa;
-    --rcx-color-primary-100: #012247;
-    --rcx-color-primary-200: #01336b;
+    --rcx-color-primary-100: #f2824d;
+    --rcx-color-primary-200: #F39468;
     --rcx-color-primary-300: #10529e;
     --rcx-color-primary-400: #095ad2;
     --rcx-color-primary-500: #1d74f5;
@@ -34,7 +34,7 @@
     --rcx-button-icon-success-background-color: #EAFCF6;
     --rcx-button-icon-success-hover-background-color: #1f2329;
     --rcx-button-icon-success-hover-border-color: #1f2329;
-    --rcx-sidebar-item-background-color-hover: #1f2329;
+    --rcx-sidebar-item-background-color-hover: #F39468 !important;
     --rcx-sidebar-item-background-color-selected: rgba(108,114,122, 0.3);
     --rcx-badge-colors-ghost-background-color: #6c727a;
     --rcx-tag-colors-ghost-background-color: #6c727a;
@@ -47,7 +47,7 @@
     --rcx-color-foreground-hint: #9ea2a8;
     --rcx-sidebar-title-color: var(--rcx-color-neutral-100, #e4e7ea)!important;
     --rcx-sidebar-item-color: var(--rcx-color-neutral-100, #e4e7ea)!important;
-    --rcx-sidebar-item-color-hover: var(--rcx-color-neutral-400, #e4e7ea);
+    --rcx-sidebar-item-color-hover: var(--rcx-color-neutral-200, #e4e7ea) !important;
     --rcx-sidebar-item-color-selected: var(--rcx-color-neutral-100, #e4e7ea)!important;
     --rcx-sidebar-footer-highlight-color: var(--rcx-color-neutral-400, #e4e7ea);
 }
